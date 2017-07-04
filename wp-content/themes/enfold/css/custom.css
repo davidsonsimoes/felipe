@@ -1,0 +1,49 @@
+/* Have fun adding your style here :) - PS: At all times this file should contain a comment or a rule, otherwise opera might act buggy :( */
+
+/* General Custom CSS */
+
+.inner-container .logo {
+  padding-top: 30px
+}
+body #main .ls-wrapper a.ls-layer-link,
+body #main .btn-default {
+  position: relative;
+  display: inline-block;
+  background-color: #f16639;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 30px
+}
+body#top div .av-light-form input[type='text'] {
+    border-radius: 40px;
+    color: #666666;
+    background-color: #ffffff;
+}
+body#top div .av-light-form input[type='submit'] {
+    border-radius: 40px;
+}
+body .avia-section-huge .content {
+    padding-top: 30px;
+}
+/*
+Desktop Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the desktop view of your site */
+
+@media only screen and (min-width: 768px) {
+  /* Add your Desktop Styles here */
+
+}
+
+
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+  /* Add your Mobile Styles here */
+
+}
