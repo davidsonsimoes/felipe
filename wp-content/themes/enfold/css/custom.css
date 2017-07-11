@@ -26,6 +26,38 @@ body#top div .av-light-form input[type='submit'] {
 body .avia-section-huge .content {
     padding-top: 30px;
 }
+nav.main_menu ul.menu li.current-menu-item .avia-menu-text{
+  background-color: #333333;
+  color: #ffffff;
+  padding: 5px 14px;
+  border-radius: 45px;
+  font-weight: 100;
+}
+#box-download .avia-builder-el-last,
+#box-download .avia-builder-el-last a {
+  margin: 0 auto!important;
+  float: none;
+  text-align: center
+}
+#box-download p {
+  color: #ffffff;
+  width: 800px;
+  margin: 0 auto 20px auto;
+  text-align: center
+}
+#box-download h1 {
+  color: #ffffff;
+  font-weight: 100;
+  font-size: 30px;
+}
+#box-download .avia-button.avia-color-orange {
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  border-radius: 40px;
+  width: 260px;
+  margin: 0 auto
+}
 /*
 Desktop Styles
 ================================================== */
