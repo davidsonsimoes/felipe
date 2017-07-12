@@ -58,6 +58,19 @@ nav.main_menu ul.menu li.current-menu-item .avia-menu-text{
   width: 260px;
   margin: 0 auto
 }
+
+#header.header_color.av_header_transparency .av-main-nav > li .wpml-ls-display {
+  color:#ffffff
+}
+#header.header_color.av_header_transparency .av-main-nav > li .sub-menu .wpml-ls-display {
+  color:#333333
+}
+.wpml-ls-statics-post_translations {
+  display: none!important
+}
+#top #header.av_minimal_header .main_menu ul:first-child >li > ul {
+  width: 98px
+}
 /*
 Desktop Styles
 ================================================== */
