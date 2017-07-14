@@ -6,6 +6,11 @@ body{font-family:'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Aria
 font-weight: 100;
 font-size: 40px
 }
+.ls-bottom-slidebuttons a {
+margin: 0 10px
+}
+#header.header_color.av_header_transparency .av-main-nav li .wpml-ls-display {
+color:#ffffff!important}
 .container {width:95%;} .container .av-content-small.units {width:73%; }
 			
 			  .responsive .boxed#top , .responsive.html_boxed.html_header_sticky #header, 
